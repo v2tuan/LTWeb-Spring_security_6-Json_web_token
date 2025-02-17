@@ -1,1 +1,1 @@
-# LTWeb-Spring_security_6-Json_web_token
+# Spring_security_6-Json_web_token
